@@ -28,6 +28,9 @@ N=10 cities were randomly initalized and plotted
   <img src=https://user-images.githubusercontent.com/85460898/167329714-b2a6e553-904d-4819-b633-0beb622fdb43.png />
 </p>
 
+```python
+    m.plot_initial_path()
+```
 The initial (random) path of visiting each city gives us a distance of 5.3790
 
 <p align="center">
@@ -58,6 +61,9 @@ Iteration: 92000 Distance: 2.6440 T:0.0010 (T_min:0.001)
 Iteration: 92104 Distance: 2.6440 T:0.0010 (T_min:0.001)
 ```
 
+```python
+    m.plot_optimized_path()
+```
 <p align="center">
   <img src=https://user-images.githubusercontent.com/85460898/167331128-386c311f-26be-4f41-81e9-7c0343d2f7d0.png />
 </p>
