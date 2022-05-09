@@ -1,4 +1,4 @@
-# Travelling-Salesman-Problem
+# Simulated-Annealing-Salesman-Problem
 
 The travelling salesman problem is an NP-hard problem that asks to find the shortest possible tour that visits each city and returns to the starting point.
 `simulated_annealing_salesman.py` uses a numerical optimization simulated annealing to solve this problem.
