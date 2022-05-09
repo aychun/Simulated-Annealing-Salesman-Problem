@@ -140,6 +140,9 @@ class Map:
         time constant <tau>, minimum temperature <Tmin>, and the maximum (initial) temperature <Tmax>.
 
         Note that different <seed> can produce different results due to the random nature of the method.
+
+        Returns the most optimized path (shortest distance) in the form of np.ndarray[float] which may be 
+        different from self.city_locations after finish executing. 
         """
 
         self.tau = tau
