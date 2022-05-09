@@ -66,7 +66,7 @@ Although the simulated annealing doesn't always guarantees the most optimal resu
 
 # References
 
-Newman, M. (2012). Chapter 10 Random Processes and Monte Carlo Methods. In _Computational physics_, Mark Newman. 
+Newman, M. (2012). Chapter 10 Random Processes and Monte Carlo Methods. In _Computational physics_.
 
 
 
